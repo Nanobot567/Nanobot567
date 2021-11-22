@@ -2,6 +2,10 @@
 
 I'm a middle schooler who decided to waste his time coding.
 
+### Website
+
+https://nanobot567.github.io/
+
 ### Programming languages I know and my confidence in using them (#/10)
 
 * Python (9/10)
