@@ -26,6 +26,11 @@ https://nanobot567.github.io/
 * IRC (irc.libera.chat, Nanobot567 is my username)
 * [Cemetech](https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=37415)
 
+### Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanobot567)](https://github.com/Nanobot567/github-readme-stats)
+
+
 <!--
 **Nanobot567/Nanobot567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
