@@ -28,8 +28,8 @@ https://nanobot567.github.io/
 
 ### Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanobot567)](https://github.com/Nanobot567/github-readme-stats)
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanobot567&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=fff&bg_color=151515)](https://github.com/Nanobot567/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanobot567&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=fff&bg_color=151515)](https://github.com/Nanobot567/github-readme-stats)
 
 <!--
 **Nanobot567/Nanobot567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
