@@ -19,7 +19,7 @@ https://nanobot567.github.io/
 * [AOS](https://github.com/Nanobot567/AOS-2), a terminal-based OS
 * [potatoscript](https://github.com/Nanobot567/potscr), an esoteric programming language
 * [nanoscrape](https://github.com/Nanobot567/nanoscript), a tiny web scraper
-* [cleanup.bat](https://github.com/Nanobot567/cleanup.bat), an annoying virus to get back at my enemies
+* [loom](https://github.com/Nanobot567/loom), an open-source encryption program
 
 ### Places where I exist
 
