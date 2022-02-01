@@ -21,11 +21,6 @@ https://nanobot567.github.io/
 * [nanoscrape](https://github.com/Nanobot567/nanoscript), a tiny web scraper
 * [loom](https://github.com/Nanobot567/loom), an open-source encryption program
 
-### Places where I exist
-
-* IRC (irc.libera.chat, Nanobot567 is my username)
-* [Cemetech](https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=37415)
-
 ### Stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanobot567&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=fff&bg_color=151515)](https://github.com/Nanobot567/github-readme-stats)
