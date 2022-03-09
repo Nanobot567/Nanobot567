@@ -20,6 +20,7 @@ https://nanobot567.github.io/
 * [potatoscript](https://github.com/Nanobot567/potscr), an esoteric programming language
 * [nanoscrape](https://github.com/Nanobot567/nanoscript), a tiny web scraper
 * [loom](https://github.com/Nanobot567/loom), an open-source encryption program
+* [micrOS](https://github.com/Nanobot567/micrOS), a shell for the TI-84+ CE
 
 ### Stats
 
