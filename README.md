@@ -9,10 +9,11 @@ https://nanobot567.github.io/
 ### Programming languages I know and my confidence in using them (#/10)
 
 * Python (9/10)
+* Lua (9/10)
 * HTML, CSS, JS (7/10)
 * Batch & Bash (6/10)
 * TI-84 PCE Basic (6/10)
-* C++ (3/10)
+* C/C++ (5/10)
 
 ### Cool projects I'm actually proud of
 
