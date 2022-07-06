@@ -1,6 +1,6 @@
 # Hi. I'm Nanobot567.
 
-I'm a middle schooler who decided to waste his time coding.
+I'm a high schooler who decided to waste his time coding.
 
 ### Website
 
