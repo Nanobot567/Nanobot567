@@ -21,7 +21,7 @@ https://nanobot567.itch.io
 
 ### Cool projects I'm actually proud of
 
-* [AOS](https://github.com/Nanobot567/AOS-2), a terminal-based OS
+* [AOS](https://github.com/AOS-GUI/AOS-GUI), a cross-platform shell
 * [potatoscript](https://github.com/Nanobot567/potscr), an esoteric programming language
 * [nanoscrape](https://github.com/Nanobot567/nanoscript), a tiny web scraper
 * [loom](https://github.com/Nanobot567/loom), an open-source encryption program
