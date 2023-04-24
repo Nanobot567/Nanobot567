@@ -17,14 +17,15 @@ https://nanobot567.itch.io
 * HTML, CSS, JS (7/10)
 * Batch & Bash (6/10)
 * TI-84 PCE Basic (6/10)
+* Java (5/10)
 * C/C++ (5/10)
 
 ### Cool projects I'm actually proud of
 
 * [AOS](https://github.com/AOS-GUI/AOS-GUI), a cross-platform shell
 * [potatoscript](https://github.com/Nanobot567/potscr), an esoteric programming language
-* [nanoscrape](https://github.com/Nanobot567/nanoscript), a tiny web scraper
-* [loom](https://github.com/Nanobot567/loom), an open-source encryption program
+* [musik](https://github.com/Nanobot567/musik), a music player for the playdate console
+* [loom](https://github.com/Nanobot567/loom), an open-source encoding program
 * [micrOS](https://github.com/Nanobot567/micrOS), a shell for the TI-84+ CE
 
 ### Stats
