@@ -27,6 +27,7 @@ https://nanobot567.itch.io
 * [musik](https://github.com/Nanobot567/musik), a music player for the playdate console
 * [loom](https://github.com/Nanobot567/loom), an open-source encoding program
 * [micrOS](https://github.com/Nanobot567/micrOS), a shell for the TI-84+ CE
+* [CS-16](https://github.com/Nanobot567/cs-16), a synthesizer for the playdate console
 
 ### Stats
 
