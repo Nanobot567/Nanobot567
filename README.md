@@ -35,6 +35,14 @@ https://nanobot567.itch.io
 [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanobot567&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=fff&bg_color=151515)](https://github.com/Nanobot567/github-readme-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanobot567&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=fff&bg_color=151515)](https://github.com/Nanobot567/github-readme-stats)
 
+---
+
+[![fedora](images/fedora.gif)](https://fedoraproject.org/)
+[![firefox](images/firefox2.gif)](https://www.mozilla.org/en-US/firefox/new/)
+[![mastodon](images/mastodon-button-1.gif)](https://joinmastodon.org/)
+![xenia](images/xenia.gif)
+[![xkcd](images/xkcd.gif)](https://xkcd.com/)
+
 <!--
 **Nanobot567/Nanobot567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
