@@ -40,7 +40,8 @@ https://nanobot567.itch.io
 [![fedora](images/fedora.gif)](https://fedoraproject.org/)
 [![firefox](images/firefox2.gif)](https://www.mozilla.org/en-US/firefox/new/)
 [![mastodon](images/mastodon-button-1.gif)](https://joinmastodon.org/)
-![xenia](images/xenia.gif)
+![4x3](images/4x3-fade.gif)
+![ramona-segfault](images/rmna.gif)
 [![xkcd](images/xkcd.gif)](https://xkcd.com/)
 
 <!--
