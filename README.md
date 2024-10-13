@@ -18,7 +18,8 @@ I'm a high schooler who decided to waste his time coding.
 
 * [AOS](https://github.com/AOS-GUI/AOS-GUI), a cross-platform shell
 * [musik](https://github.com/Nanobot567/musik), a music player for the playdate console
-* [CS-16](https://github.com/Nanobot567/cs-16), a synthesizer for the playdate console
+* [CS-16](https://github.com/Nanobot567/cs-16), a synthesizer for playdate
+* [fewatsu](https://github.com/Nanobot567/fewatsu), an electronic manual library for playdate
 
 ### Stats
 ![](https://komarev.com/ghpvc/?username=nanobot567&color=151515)
