@@ -35,9 +35,9 @@ I'm a high schooler who decided to waste his time coding.
 [![xkcd](images/xkcd.gif)](https://xkcd.com/)
 ![ramona-segfault](images/rmna.gif)
 ![4x3](images/4x3-fade.gif)
-![jerma](images/jerma.png)
+<!-- ![jerma](images/jerma.png) -->
 ![windows-vista](images/vista.gif)
-![webp-now!](images/webpnow.png)
+<!-- ![webp-now!](images/webpnow.png) -->
 
 
 <!--
