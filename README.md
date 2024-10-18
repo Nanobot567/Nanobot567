@@ -32,9 +32,13 @@ I'm a high schooler who decided to waste his time coding.
 [![fedora](images/fedora.gif)](https://fedoraproject.org/)
 [![firefox](images/firefox2.gif)](https://www.mozilla.org/en-US/firefox/new/)
 [![mastodon](images/mastodon-button-1.gif)](https://joinmastodon.org/)
-![4x3](images/4x3-fade.gif)
-![ramona-segfault](images/rmna.gif)
 [![xkcd](images/xkcd.gif)](https://xkcd.com/)
+![ramona-segfault](images/rmna.gif)
+![4x3](images/4x3-fade.gif)
+![jerma](images/jerma.png)
+![windows-vista](images/vista.gif)
+![webp-now!](images/webpnow.png)
+
 
 <!--
 **Nanobot567/Nanobot567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
