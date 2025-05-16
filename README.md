@@ -1,4 +1,4 @@
-# Hi. I'm Nanobot567.
+# Hi! I'm Nanobot567.
 
 I'm a high schooler who decided to waste his time coding.
 
@@ -7,10 +7,8 @@ I'm a high schooler who decided to waste his time coding.
 * Python (9/10)
 * Lua (9/10)
 * HTML, CSS, JS (6/10)
-* TI-84 PCE Basic (6/10)
 * Java (5/10)
 * C/C++ (4/10)
-* Batch & Bash (4/10)
 
 ### Cool projects I'm actually proud of
 
@@ -27,15 +25,15 @@ I'm a high schooler who decided to waste his time coding.
 
 ---
 
+[![linux](images/linuxnow.png)](https://linux.org/)
 [![fedora](images/fedora.gif)](https://fedoraproject.org/)
-[![firefox](images/firefox2.gif)](https://www.mozilla.org/en-US/firefox/new/)
-[![mastodon](images/mastodon-button-1.gif)](https://joinmastodon.org/)
+[![neovim](images/neovim.gif)](https://neovim.io/)
+[![fediverse](images/fediverse.png)](https://fediverse.party/en/fediverse/)
 [![xkcd](images/xkcd.gif)](https://xkcd.com/)
+![right2repair](images/right2repair.png)]
 ![ramona-segfault](images/rmna.gif)
-![4x3](images/4x3-fade.gif)
+![cheezit](images/builteatingcheezit.gif)]
 ![jerma](images/jerma.png)
-![windows-vista](images/vista.gif)
-![webp-now!](images/webpnow.png)
 
 
 <!--
