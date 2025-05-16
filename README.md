@@ -30,9 +30,9 @@ I'm a high schooler who decided to waste his time coding.
 [![neovim](images/neovim.gif)](https://neovim.io/)
 [![fediverse](images/fediverse.png)](https://fediverse.party/en/fediverse/)
 [![xkcd](images/xkcd.gif)](https://xkcd.com/)
-![right2repair](images/right2repair.png)]
+![right2repair](images/right2repair.png)
 ![ramona-segfault](images/rmna.gif)
-![cheezit](images/builteatingcheezit.gif)]
+![cheezit](images/builteatingcheezit.gif)
 ![jerma](images/jerma.png)
 
 
