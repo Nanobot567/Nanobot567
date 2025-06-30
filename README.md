@@ -1,6 +1,6 @@
 # Hi! I'm Nanobot567.
 
-I'm a high schooler who decided to waste his time coding.
+I'm a high school student who decided to waste his time coding.
 
 ### Programming languages I know and my confidence in using them (#/10)
 
