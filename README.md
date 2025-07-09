@@ -7,10 +7,11 @@ I'm a high school student who decided to waste his time coding.
 * Python (9/10)
 * Lua (9/10)
 * HTML, CSS, JS (6/10)
-* Java (5/10)
-* C/C++ (4/10)
+* Java (4/10)
+* C (4/10)
+* Rust (2/10)
 
-### Cool projects I'm actually proud of
+### Projects I'm actually proud of :3
 
 * [AOS](https://github.com/AOS-GUI/AOS-GUI), a cross-platform shell
 * [musik](https://github.com/Nanobot567/musik), a music player for the playdate console
@@ -26,7 +27,6 @@ I'm a high school student who decided to waste his time coding.
 ---
 
 [![linux](images/linuxnow.png)](https://linux.org/)
-[![fedora](images/fedora.gif)](https://fedoraproject.org/)
 [![neovim](images/neovim.gif)](https://neovim.io/)
 [![fediverse](images/fediverse.png)](https://fediverse.party/en/fediverse/)
 [![xkcd](images/xkcd.gif)](https://xkcd.com/)
@@ -34,6 +34,7 @@ I'm a high school student who decided to waste his time coding.
 ![ramona-segfault](images/rmna.gif)
 ![cheezit](images/builteatingcheezit.gif)
 ![jerma](images/jerma.png)
+![paws](images/paws.png)
 
 
 <!--
