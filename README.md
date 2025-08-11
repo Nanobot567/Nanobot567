@@ -2,6 +2,8 @@
 
 I'm a high school student who decided to waste his time coding.
 
+> I'm currently in the process of migrating everything meaningful over to [Codeberg](https://codeberg.org/nanobot567/)! I'll be doing all of my development there from here on out. :)
+
 ### Programming languages I know and my confidence in using them (#/10)
 
 * Python (9/10)
