@@ -1,8 +1,14 @@
 # Hi! I'm Nanobot567.
 
-I'm a high school student who decided to waste his time coding.
+I'm a programmer and musician.
 
-> I'm currently in the process of migrating everything meaningful over to [Codeberg](https://codeberg.org/nanobot567/)! I'll be doing all of my development there from here on out. :)
+## I have migrated to Codeberg!!
+
+Everything I develop will be hosted on [Codeberg](https://codeberg.org/nanobot567) from now on :)
+
+If you're using a buggy app that you downloaded before the move, chances are it's been updated over there.
+
+---
 
 ### Programming languages I know and my confidence in using them (#/10)
 
@@ -15,16 +21,13 @@ I'm a high school student who decided to waste his time coding.
 
 ### Projects I'm actually proud of :3
 
-* [AOS](https://github.com/AOS-GUI/AOS-GUI), a cross-platform shell
-* [musik](https://github.com/Nanobot567/musik), a music player for the playdate console
-* [CS-16](https://github.com/Nanobot567/cs-16), a synthesizer for playdate
-* [fewatsu](https://github.com/Nanobot567/fewatsu), an electronic manual library for playdate
+* [AOS](https://codeberg.org/AOS-GUI/AOS-GUI), a cross-platform shell
+* [musik](https://codeberg.org/Nanobot567/musik), a music player for the playdate console
+* [CS-16](https://codeberg.org/Nanobot567/cs-16), a synthesizer for playdate
+* [fewatsu](https://codeberg.org/Nanobot567/fewatsu), an electronic manual library for playdate
 
 ### Stats
 ![](https://komarev.com/ghpvc/?username=nanobot567&color=151515)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanobot567&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=fff&bg_color=151515)](https://github.com/Nanobot567/github-readme-stats)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanobot567&layout=compact&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=fff&bg_color=151515)](https://github.com/Nanobot567/github-readme-stats)
 
 ---
 
